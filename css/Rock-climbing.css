@@ -1,0 +1,16 @@
+img {
+  float: right;
+}
+
+.size {
+  width: 400px;
+  height: auto;
+}
+
+.sidebar {
+  float: right;
+}
+
+h3 {
+  font-style: italic;
+}
